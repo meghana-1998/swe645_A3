@@ -1,0 +1,6 @@
+com/example/assignment3/model/Student.class
+com/example/assignment3/Application.class
+com/example/assignment3/repository/StudentRepository.class
+com/example/assignment3/controller/StudentController.class
+com/example/assignment3/exception/ResourceNotFoundException.class
+com/example/assignment3/model/SourceOfInterest.class
